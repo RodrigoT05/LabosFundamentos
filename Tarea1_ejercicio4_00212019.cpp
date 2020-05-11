@@ -3,8 +3,8 @@ using namespace std;
 
 int main(){
 
-    int unidad = 0;     //Declaro las variables de unidad y total a pagar como enteras.
-    float precio = 0.25, total;       //Declaro la variable del precio como una de tipo flotante.
+    int unidad = 0;     //Declaro las variables de unidad como enteras.
+    float precio = 0.25, total;       //Declaro las variables del precio y total de tipo flotante.
     string bienvenida = "Bienvenidos a Dorito's World (Solo vendemos doritos de queso xd)";
     string cantidad = "Cuantas unidades desea adquirir? ";
     string pago = "El total a pagar sera de: ";
